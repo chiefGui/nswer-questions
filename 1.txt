@@ -78,7 +78,7 @@
 -Esporte
 -10
  
--Qual artista gravou um clipe no Brasil?
+-Qual cantor(a) gravou um clipe no Brasil?
 -Justin Bieber, Amy Winehouse, Michael Jackson, Avril Lavigne
 -Michael Jackson
 -Música
@@ -109,7 +109,7 @@
 -10
 
 -As cores dos teletubbies podem ser consideradas...?
--primárias, secundárias, terciárias, n.d.a
+-Primárias, Secundárias, Terciárias, N.d.a
 -n.d.a
 -Televisão
 -10
@@ -119,7 +119,7 @@
 -Usher
 -Música
 
--Quem canta "Call Me Maybe?"
+-Quem canta "Call Me Maybe?", que bombou em 2012?
 -Katy perry, Carly Rae Jepsen, Demi Lovato, Selena Gomez
 -Carly Rae Jepsen
 -Música
