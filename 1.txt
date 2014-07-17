@@ -78,3 +78,156 @@
 -2, 3, 1, Nenhuma
 -Nenhuma
 -Televisão
+
+-Band of Brothers é uma série de quê?
+-Músical, Guerra, Comédia, n.d.a
+-Guerra
+-Televisão/séries
+
+-A séria House parou de ser gravada em que ano?
+-2012, 2011, 2013, Ainda não terminou
+-2012
+-Televisão/séries
+
+-Como se chama o tigre do filme "A Era do Gelo"?
+-Felipe, Diego, Sid, Daniel
+-Diego
+-Filmes
+
+-Qual empresa comprou a Kaiser?
+-Budweiser, Stella Artois, Heineken, Brahma
+-Heineken
+-Conhecimentos gerais
+
+-Qual smartphone tem sistema operacional da Microsoft?
+-Samsung, Motorola, LG, Nokia
+-Nokia
+-Tecnologia
+
+-A empresa Adidas doi dividida em 1948, dando origem a uma marca rival. Qual seria?
+-Nike, Puma, Mizuno, Asics
+-Puma
+-Conhecimentos gerais
+
+-Onde foi iniciado o "Sistema Cooperativo"?
+-Inglaterra, Alemanha, E.U.A, Rússia
+-Inglaterra
+-Conhecimentos gerais
+
+-O que é o "ICQ"?
+-App de músicas, Linguagem de programação, Chat, n.d.a
+-Chat
+-Tecnologia
+
+-Em que ano o MSN foi tirado do ar?
+-2014, 2013, 2010, 2012
+-2013
+-Tecnologia
+
+-Qual país doi sede das Olimpiadas de Inverno de 2014?
+-Alemanha, Espanha, Rússia, Inglaterra
+-Rússia
+-Esporte
+
+-Michael Phelps pratica qual esporte?
+-Natação, Atletismo, Ciclismo, n.d.a
+-Natação
+-Esporte
+
+-Qual cidade é conhecida pelo seu alto tráfego de ciclistas?
+-Londres, Amsterdam, São Paulo, Nova York
+-Amsterdam
+-Conhecimentos gerais
+
+-O ex-BBB Fernando Fernandes tornou-se atleta paraolimpico. Qual esporte ele pratica?
+-Natação, Remo, Canoagem, ciclismo
+-Canoagem
+-Esporte
+
+-Em que ano ocorreram as explosões em Hiroshima e Nagasaki?
+-1944, 1954, 1933, 1945
+-1945
+-História
+
+-No Brasil, qual marca lançou o chocolate Kit Kat?
+-Lacta, Nestlé, Garoto, n.d.a
+-Nestlé
+-Conhecimentos gerais
+
+-Como se chama o malvado do filme "Meu malvado favorito"?
+-Cru, Gru, Pai, Ele não tinha nome
+-Gru
+-Filmes
+
+-Em que ano começou o reality show "A fazenda"?
+-2002, 2005, 2009, 2011
+-2009
+-Televisão
+
+-A obra "O grito" foi pintada por quem?
+-Leonardo da Vinci, Van Gogh, Frida Kahlo, Tarsila do Amaral
+-Van Gogh
+-Arte
+
+-A produtora de automóveis Ford é uma empresa...?
+-Alemã, Russa, Estadunidense, Brasileira
+-Estadunidense
+-Conhecimentos gerais
+
+-Qual animal tenta pegar o Papa-léguas, mas não consegue?
+-Coelho, Lebre, Coiote, n.d.a
+-Coiote
+-Televisão
+
+-Como se chama o Papa Francisco?
+-Francisco Mario Bergoglio, Jorge Mario Bergoglio, Pedro Mario Bergoglio, Carlos Mario Bergoglio
+-Jorge Mario Bergoglio
+-Conhecimentos gerais
+
+-Em que ano o Papa Bento XVI renunciou?
+-2011, 2012, 2013, 2014
+-2013
+-Conhecimentos gerais
+
+-Quais são as cores primárias?
+-Azul, Amarelo e Vermelho; Azul, Verde e Vermelho; Verde, Amarelo e Vermelho; n.d.a
+-Azul, Amarelo e Vermelho
+-Arte
+
+-Quem era o inimigo do Piu-Piu?
+-Pernalonga, Jerry, Papa-léguas, Frajola
+-Frajola
+-Televisão
+
+-Qual é o objeivo dos parceiros Pinky e Cérebro?
+-Conquistar o mundo, Roubar comida, Fugir, Manipular os humanos
+-Conquistar o mundo
+-Televisão
+
+-Qual o sistema operacional do Iphone?
+-Android, Windows 8, iOS, Firefox OS
+-iOS
+-Tecnologia
+
+-No desenho "Três espiãs demais", qual espiã usa roupa amarela?
+-Clover, Alex, Sam, Nenhuma
+-Alex
+-Televisão
+
+-O livro "O pequeno prícipe" foi escrito por um...?
+-Brasileiro, Japonês, Francês, Inglês
+-Francês
+-Literatura
+
+-Quem nasce em Salvador é...?
+-Baiano, Salvadorense, Capixaba, Soteropolitano
+-Soteropolitano
+-Geografia
+
+-Quem nasce em Florianópolis é...?
+-Floriano, Florianopolitano, Florianopolense, Manézinho da Ilha
+-Florianopolitano
+-Geografia
+
+
+
