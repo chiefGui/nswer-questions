@@ -15,7 +15,7 @@
 -História
 
 -O verde pode ser considerado uma cor...?
--Quente, Fria, Neutra, n.d.a
+-Quente, Fria, Neutra, Temporal
 -Fria
 -Arte
 
@@ -80,7 +80,7 @@
 -Televisão
 
 -Band of Brothers é uma série de quê?
--Músical, Guerra, Comédia, n.d.a
+-Músical, Guerra, Comédia, Animação
 -Guerra
 -Televisão/séries
 
@@ -115,7 +115,7 @@
 -Conhecimentos gerais
 
 -O que é o "ICQ"?
--App de músicas, Linguagem de programação, Chat, n.d.a
+-App de músicas, Linguagem de programação, Chat, Marca de eletronicos 
 -Chat
 -Tecnologia
 
@@ -130,7 +130,7 @@
 -Esporte
 
 -Michael Phelps pratica qual esporte?
--Natação, Atletismo, Ciclismo, n.d.a
+-Natação, Atletismo, Ciclismo, Futebol 
 -Natação
 -Esporte
 
@@ -150,7 +150,7 @@
 -História
 
 -No Brasil, qual marca lançou o chocolate Kit Kat?
--Lacta, Nestlé, Garoto, n.d.a
+-Lacta, Nestlé, Garoto, Cacau show
 -Nestlé
 -Conhecimentos gerais
 
@@ -175,7 +175,7 @@
 -Conhecimentos gerais
 
 -Qual animal tenta pegar o Papa-léguas, mas não consegue?
--Coelho, Lebre, Coiote, n.d.a
+-Coelho, Lebre, Coiote, Tartaruga
 -Coiote
 -Televisão
 
